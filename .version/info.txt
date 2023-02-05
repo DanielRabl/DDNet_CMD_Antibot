@@ -1,0 +1,6 @@
+src_Antibot/main.cpp
+src_CMD/main.cpp
+DDNetAntibot.exe
+DDNetCMD.exe
+default.cfg
+--version = 0
